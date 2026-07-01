@@ -1,4 +1,4 @@
-# Ezequiel Lich
+# Ezequiel Lech
 
 **Python Developer | Async APIs | Discord Bots | Microservices**
 
