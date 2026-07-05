@@ -24,7 +24,7 @@ Construyendo soluciones open-source que resuelven problemas reales de LLMs: obse
 - **Observabilidad**: OpenTelemetry, Prometheus  
 - **Async Clients**: httpx  
 - **DevOps**: Docker, Docker Compose, GitHub Actions  
-- **Otros**: Pydantic v2, SQLAlchemy, Temporal (opcional)
+- **Otros**: Pydantic v2, SQLAlchemy
 
 ### Disponibilidad
 
