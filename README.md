@@ -4,13 +4,6 @@
 Especialista en arquitecturas asíncronas de alto rendimiento (asyncio + FastAPI) y herramientas de infraestructura para sistemas de Inteligencia Artificial en producción.  
 
 Construyendo soluciones open-source que resuelven problemas reales de LLMs: observabilidad, orquestación de agentes, RAG optimizado y autoscaling predictivo.
-## Proyectos Destacados
-
-- **llm-obs-core — Proxy + Observabilidad production-grade para LLMs (OpenTelemetry, Redis Streams, semantic sampling y token economics).
-- **async-agent-orchestrator — Framework de orquestación asíncrona de agentes con Saga pattern, DAGs y coordinación distribuida.
-- **fast-rag-cache — Caching semántico híbrido + pipeline async para reducir latencia en sistemas RAG (>60% reducción).
-- **llm-gateway-fleet — Gateway multi-proveedor inteligente con adaptive routing, circuit breakers y cost optimization.
-- **ai-workload-autoscaler — Autoscaler predictivo para workloads de inferencia (vLLM/TGI) basado en forecasting y queue metrics.
 
 ### Stack Técnico
 
