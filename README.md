@@ -28,4 +28,4 @@ Construyendo soluciones open-source que resuelven problemas reales de LLMs: obse
 Tiempo de respuesta: **< 2 horas**  
 Email: **ezequiellich44@gmail.com**  
 LinkedIn: https://www.linkedin.com/in/ezequiellech/ 
-Ubicación: Remoto (preferencia LATAM / España)
+Ubicación: Remoto
