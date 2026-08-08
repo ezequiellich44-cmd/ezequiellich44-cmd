@@ -36,6 +36,5 @@ I partner with **Web3 DAOs, AI Protocols, and High-Impact Infrastructure Teams**
 - **Status:** Open for **Async Remote Contracts**, **Web3 Bounties**, and **Senior/Staff Backend Eng** roles.
 - **Communication:** 100% Written English & GitHub PRs (Async-first).
 - **Location:** Remote (Global / UTC-3 base)
-- **GitHub:** [@keziel01](https://github.com/keziel01)
 - **X (Twitter):** [@keziel01](https://x.com/keziel01)
 - **Email:** ezequiellich44@gmail.com
