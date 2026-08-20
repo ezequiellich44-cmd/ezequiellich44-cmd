@@ -28,6 +28,7 @@ Real, merged work in production repositories:
 - **ai-boost/awesome-harness-engineering** (3.6k★) — [PR #205](https://github.com/ai-boost/awesome-harness-engineering/pull/205): Added MandateGuard to Security, Sandbox & Permissions
 - **0xNyk/awesome-agent-cortex** (204★) — [PR #68](https://github.com/0xNyk/awesome-agent-cortex/pull/68): Added MandateGuard to Agent Payments
 - **LLMSecurity/awesome-agent-skills-security** (82★) — [PR #50](https://github.com/LLMSecurity/awesome-agent-skills-security/pull/50): Added MandateGuard to Tools & Frameworks table
+- **ProjectRecon/awesome-ai-agents-security** (65★) — [PR #94](https://github.com/ProjectRecon/awesome-ai-agents-security/pull/94): Added MandateGuard to Guardrails & Compliance
 
 ---
 
