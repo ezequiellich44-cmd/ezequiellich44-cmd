@@ -25,6 +25,9 @@ Real, merged work in production repositories:
 - **Picrew/awesome-agent-harness** (1.6k★) — [PR #72](https://github.com/Picrew/awesome-agent-harness/pull/72): Added MandateGuard to Guardrails category
 - **royalpinto007/awesome-mcp-security** (new) — [PR #3](https://github.com/royalpinto007/awesome-mcp-security/pull/3): Added MandateGuard to guardrails category (data-driven)
 - **WagnerAgent/awesome-mcp-servers-devops** (96★) — [PR #69](https://github.com/WagnerAgent/awesome-mcp-servers-devops/pull/69): Added MandateGuard to Community Security Servers table
+- **ai-boost/awesome-harness-engineering** (3.6k★) — [PR #205](https://github.com/ai-boost/awesome-harness-engineering/pull/205): Added MandateGuard to Security, Sandbox & Permissions
+- **0xNyk/awesome-agent-cortex** (204★) — [PR #68](https://github.com/0xNyk/awesome-agent-cortex/pull/68): Added MandateGuard to Agent Payments
+- **LLMSecurity/awesome-agent-skills-security** (82★) — [PR #50](https://github.com/LLMSecurity/awesome-agent-skills-security/pull/50): Added MandateGuard to Tools & Frameworks table
 
 ---
 
