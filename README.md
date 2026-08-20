@@ -14,6 +14,16 @@ Real, merged work in production repositories:
 - **Bounty solver** on the Agent Bounties protocol (Base USDC): independent implementations verified against immutable regression sandboxes.
 - Security tooling for AI agents: deterministic guardrails, trust-loop audits, async backpressure engines.
 
+### Recent Awesome-List Contributions (2026-08)
+
+- **punkpeye/awesome-mcp-servers** (92.5k★) — [PR #12516](https://github.com/punkpeye/awesome-mcp-servers/pull/12516): Added MandateGuard MCP server to Security section (auto-merge fast-track)
+- **ComposioHQ/awesome-claude-skills** (72.8k★) — [PR #1690](https://github.com/ComposioHQ/awesome-claude-skills/pull/1690): Added MandateGuard to Security & Systems
+- **BehiSecc/awesome-claude-skills** (10k★) — [PR #596](https://github.com/BehiSecc/awesome-claude-skills/pull/596): Added MandateGuard payment policy to Security & Web Testing
+- **sickn33/agentic-awesome-skills** (45k★) — [PR #1207](https://github.com/sickn33/agentic-awesome-skills/pull/1207): Added MandateGuard skill with validation
+- **0xNyk/awesome-hermes-agent** (5.3k★) — [PR #337](https://github.com/0xNyk/awesome-hermes-agent/pull/337): Added MandateGuard to Tools & Utilities
+- **mergisi/awesome-openclaw-agents** (3.9k★) — [PR #121](https://github.com/mergisi/awesome-openclaw-agents/pull/121): Added MandateGuard to Community MCP Servers
+- **Picrew/awesome-agent-harness** (1.6k★) — [PR #72](https://github.com/Picrew/awesome-agent-harness/pull/72): Added MandateGuard to Guardrails category
+
 ---
 
 ### Services & Rapid Delivery (Hire Me)
