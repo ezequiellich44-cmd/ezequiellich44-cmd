@@ -23,6 +23,8 @@ Real, merged work in production repositories:
 - **0xNyk/awesome-hermes-agent** (5.3k★) — [PR #337](https://github.com/0xNyk/awesome-hermes-agent/pull/337): Added MandateGuard to Tools & Utilities
 - **mergisi/awesome-openclaw-agents** (3.9k★) — [PR #121](https://github.com/mergisi/awesome-openclaw-agents/pull/121): Added MandateGuard to Community MCP Servers
 - **Picrew/awesome-agent-harness** (1.6k★) — [PR #72](https://github.com/Picrew/awesome-agent-harness/pull/72): Added MandateGuard to Guardrails category
+- **royalpinto007/awesome-mcp-security** (new) — [PR #3](https://github.com/royalpinto007/awesome-mcp-security/pull/3): Added MandateGuard to guardrails category (data-driven)
+- **WagnerAgent/awesome-mcp-servers-devops** (96★) — [PR #69](https://github.com/WagnerAgent/awesome-mcp-servers-devops/pull/69): Added MandateGuard to Community Security Servers table
 
 ---
 
