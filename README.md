@@ -1,4 +1,4 @@
-# Ezequiel Lech
+﻿# Ezequiel Lech
 
 **Senior Web3 & AI Infrastructure Engineer | Autonomous Agents, MCP Security & Production Resilience**
 
@@ -57,6 +57,13 @@ Accepting crypto directly on mainnet (instant escrow & direct transfer):
 ---
 
 ### Featured Work & Open Source
+
+#### AgentShield - MEV Protection for AI Agent Payments [NEW]
+**Stop sandwich attacks on every agent transaction. Flashbots (EVM) + Jito (Solana). 190M+ x402 txs at risk - we make them safe.**
+
+- **Repo:** [ezequiellich44-cmd/AgentShield](https://github.com/ezequiellich44-cmd/AgentShield) - pip install agentshield | Free tier: 100 tx/mo | Pro 49/mo - **[Buy Pro License](https://github.com/ezequiellich44-cmd/AgentShield#pricing)**
+- Multi-chain (Base / Ethereum / Solana / Arbitrum / Polygon) | Intent settlement | SHA-256 tamper-evident audit | Guardrails
+- Tagline: *x402 tells agents HOW to pay. AgentShield tells them HOW TO PAY SAFELY.*
 
 #### AgentGate
 *Deterministic trust-loop audit for AI-agent surfaces.* One command, zero API keys, no LLM in the decision path: audit -> auto-fix -> re-audit -> SHA-256 ledger. CI-ready trust gating with verifiable cryptographic per-server fingerprints. `pip install agentgate`
