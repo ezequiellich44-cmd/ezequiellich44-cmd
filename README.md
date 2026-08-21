@@ -1,4 +1,4 @@
-﻿# Ezequiel Lech
+﻿﻿# Ezequiel Lech
 
 **Senior Web3 & AI Infrastructure Engineer | Autonomous Agents, MCP Security & Production Resilience**
 
@@ -57,6 +57,14 @@ Accepting crypto directly on mainnet (instant escrow & direct transfer):
 ---
 
 ### Featured Work & Open Source
+
+#### SolSniper — Premium Solana Sniper Bot [FLAGSHIP]
+
+Self-hosted sniper for pump.fun + Raydium. Anti-rug ML, copy trading, Jito bundles. No fees. Your keys.
+
+- **Repo:** [ezequiellich44-cmd/SolSniper](https://github.com/ezequiellich44-cmd/SolSniper) — pip install solsniper | Pro  lifetime | Elite  lifetime
+- Pump.fun sniper + Raydium sniper + Anti-rug ML + Copy trading + Jito bundles + Telegram bot
+- *Stop paying 1% per trade. Self-host your sniper. Keep your profits.*
 
 #### AgentShield - MEV Protection for AI Agent Payments [NEW]
 **Stop sandwich attacks on every agent transaction. Flashbots (EVM) + Jito (Solana). 190M+ x402 txs at risk - we make them safe.**
